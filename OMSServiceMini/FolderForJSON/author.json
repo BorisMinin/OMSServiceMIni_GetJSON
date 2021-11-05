@@ -1,0 +1,32 @@
+{
+  "Authors": [
+    {
+      "Name": "Bob",
+      "LastName": "Wilson"
+    },
+    {
+      "Name": "Lorna",
+      "LastName": "Rodriguez"
+    }
+  ],
+  "Commits": [
+    {
+      "Name": "Bob",
+      "Date": "01.01.0001 0:00:00"
+    },
+    {
+      "Name": "",
+      "Date": "10.01.2021 3:33:33"
+    }
+  ],
+  "Branches": [
+    {
+      "BranchName": "branch1",
+      "ProjectName": "project1"
+    },
+    {
+      "BranchName": "branch2",
+      "ProjectName": "project2"
+    }
+  ]
+}
